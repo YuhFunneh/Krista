@@ -12,6 +12,7 @@ public class ReverseWord
    public static void main (String[] args)
    {
       Scanner scan = new Scanner(System.in);
+      System.out.println("I added this to see a change");
 //      System.out.println("Please enter a word");
 //      String word = scan.nextLine();
 //
