@@ -1,5 +1,5 @@
 /**
- * @author Rich Smith at ZenOfProgramming.com
+ * @author Krista Powell
  */
 class Student
 {
